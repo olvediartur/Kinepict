@@ -1,1 +1,1 @@
-Kinepict
+A feladat egy egyszerű Java-s command line alkalmazás vagy unit test elkészítése az openweathermap.org API-jának elérésére.
